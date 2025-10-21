@@ -4,7 +4,7 @@ import 'package:flutter_application/screens/PantallaPrincipal.dart';
 void main() {
   runApp(const MyApp());
 }
-
+//
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
